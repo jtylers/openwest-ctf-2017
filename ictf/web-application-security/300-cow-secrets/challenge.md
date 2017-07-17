@@ -1,7 +1,6 @@
 # Sudan - Cow Secrets
 Find the cows' secret
-
-nc ictf.openwest.org/challenges/cow_secrets undefined
+ictf.openwest.org/challenges/cow_secrets
 
 # Points
 300
